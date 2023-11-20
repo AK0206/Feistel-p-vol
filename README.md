@@ -17,6 +17,7 @@ git clone https://github.com/AK0206/Feistel-p-vol.git
 
 ###### Navigate to the project directory:
 Feistel-p-vol >> src >> feistel >> MainClass
+
 Note: Before running the MainClass, run the keys file once in order to generate keys.
 
 Run the console application.
